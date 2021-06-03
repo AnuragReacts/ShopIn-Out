@@ -1,0 +1,30 @@
+.body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+form {
+    width: 500px;
+    margin-top: 20px;
+    font-family: Montserrat;
+}
+
+form button {
+    margin-top: 10px;
+}
+
+label{
+  margin-top: 10px;
+}
+
+.w-100{
+  width: 100%;
+  color: white;
+  margin-top: 50px;
+}
+.go-back{
+  width: 100%;
+  margin-top: 20px;
+}

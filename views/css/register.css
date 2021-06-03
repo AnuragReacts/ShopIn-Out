@@ -1,0 +1,34 @@
+.body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+form {
+    width: 500px;
+    margin-top: 40px;
+    font-family: Montserrat;
+}
+
+form button {
+    margin-top: 30px;
+}
+label{
+  margin-top: 10px;
+}
+.w-100{
+  width: 100%;
+  border-radius: 0;
+}
+.mt-10{
+  margin-top: 10px;
+}
+
+/* heading */
+.heading{
+  height: 150px;
+  background-color: #FBFBFB;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
