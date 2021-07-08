@@ -16,4 +16,4 @@ In order to use it, you should:
 
 ---
 ## More Info
-It uses passport-local strategy (Passpost.js) for authentication of every user.
+It uses passport-local strategy (passport.js) for authentication of every user.
